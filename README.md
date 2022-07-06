@@ -1,2 +1,4 @@
 # Data_Trans
 这是一个用于目标检测等领域上数据格式转换的脚本文件
+
+将VOC数据集的标签和图片放置在对应的位置，然后依次运行images_tag.py和voc_to_yolo.py
