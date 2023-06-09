@@ -1,4 +1,5 @@
 # Data_Trans
-这是一个用于目标检测等领域上数据格式转换的脚本文件
+This is a script for data format conversion on object detection and other fields
 
-【VOC数据转成YOLO数据】打开VOC_To_YOLO文件夹，然后将VOC数据集的标签和图片放置在对应的位置，然后依次运行images_tag.py和voc_to_yolo.py
+# Use
+Open the VOC_To_YOLO folder, then place the lables and images of the VOC dataset in the corresponding locations, then run images_tag.py and voc_to_yolo.py in turn
